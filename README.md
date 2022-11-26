@@ -11,6 +11,8 @@
 <p align = "justify"> I am a Fresh Graduate from Statistics, Diponegoro University.  I have an internship experience by joining the Magang Merdeka program for approximately 1 year as a Data Analyst and Data Scientist.  Some of the experiences that have been gained through the <a href ="https://kampusmerdeka.kemdikbud.go.id/">Magang Merdeka</a> program include Data Visualization, Data Preparation, Machine Learning, Customer Relationship Management (CRM), and Optical Character Recognition (OCR) System. In addition, the tools that I have understood include Microsoft Office, R, Python, Matlab, MySQL, SQL Server, Tableau, etc. 
 </p>
 
+# Experience:
+
 # :fire: Some of my Github Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tafif04&theme=dark&background=000000)](https://git.io/streak-stats)
 
