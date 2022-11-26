@@ -12,14 +12,21 @@
 </p>
 
 # <img src="https://www.myamcat.com/blog/wp-content/uploads/2016/02/job-icon.png" width="30px"> Experience:
-#### 1. [**PT BISA ARTIFISIAL INDONESIA**](https://www.linkedin.com/company/bisa-ai/) | Data Scientist, _Internship_ | Feb, 2022 - Jul, 2022
-   - Coordinated (Project Management) with 3 individuals internal team (OCR team)
-   - Building API-based OCR System for Identity Cards (KTP), Driver's License Cards (SIM), Debit Cards, and NPWP Cards to assist in inputting data for companies. 
-   - Webinar speaker on the BISA AI Academy platform for self-development and knowledge implementation during the internship. 
-#### 2. [**PT CAKRA RADHA MUSTIKA**](https://cakraradhamustika.com/) | Data Analyst, _Internship_ | Aug, 2021 - Feb, 2022
-   - Data-Driven Marketing Campaign to Growth Sales.
-   - Created dashboards of Customer Profiling, Customer Segmentation, and Customer Behaviour using Tableau.
-   - Created monthly reports for data validation on each brand.
+#### <img src = "https://media-exp1.licdn.com/dms/image/C560BAQEr14Jn030ACQ/company-logo_200_200/0/1574304545302?e=1677715200&v=beta&t=5XNY0NmujhvN7PnGo9jXPpoOW8XDQYdcE7e0sXIPqec" width="20px"> [**PT BISA ARTIFISIAL INDONESIA**](https://www.linkedin.com/company/bisa-ai/) | Data Scientist, _Internship_ | Feb, 2022 - Jul, 2022
+   - <p align="justify"> Coordinated (Project Management) with 3 individuals internal team (OCR team) </p>
+   - <p align="justify"> Building API-based OCR System for Identity Cards (KTP), Driver's License Cards (SIM), Debit Cards, and NPWP Cards to assist in inputting data for companies. </p> 
+   - <p align="justify"> Webinar speaker on the BISA AI Academy platform for self-development and knowledge implementation during the internship. </p>
+#### <img src = "https://media-exp1.licdn.com/dms/image/C4E0BAQEOcCvSyA8tgQ/company-logo_200_200/0/1628523447775?e=1677715200&v=beta&t=Z6Y_HriPBzyN-QDCdbco2jqIF6nGG_vxYTOnNIP85jU" width="20px"> [**PT CAKRA RADHA MUSTIKA**](https://cakraradhamustika.com/) | Data Analyst, _Internship_ | Aug, 2021 - Feb, 2022
+   - <p align="justify"> Data-Driven Marketing Campaign to Growth Sales. </p>
+   - <p align="justify"> Created dashboards of Customer Profiling, Customer Segmentation, and Customer Behaviour using Tableau. </p>
+   - <p align="justify"> Created monthly reports for data validation on each brand. </p>
+
+# <img src="https://cdn-icons-png.flaticon.com/512/201/201614.png" width="30px"> Education:
+#### <img src = "https://1.bp.blogspot.com/-tThKR0i2DdQ/XrO4fFiulNI/AAAAAAAAB_s/4_UY2xeR3SsE9_5MGBdvsQtBJgNxf9e_wCLcBGAsYHQ/s1600/Logo%2BUndip%2BUniversitas%2BDiponegoro.png" width="20px"> [**DIPONEGORO UNIVERSITY**](https://www.undip.ac.id/) | Aug, 2018 - Sep, 2022
+   - <p align="justify"> Grade Point Average (GPA): 3.88/4.00 </p>
+   - <p align="justify"> Thesis: Implementation of K-Medoids and Weighted-Length Recency Frequency Monetary (W-LRFM) Model for Customer Segmentation with GUI R </p>
+   - <p align="justify"> Lecturer Research Assistant </p>
+   - <p align="justify"> Lecturer Teaching Assistant for 6 courses: Financial Mathematics, Statistics and Matematics I, Statistics and Matematics II, Design Experiment, Insurance, and Techical Simulations </p>
 
 # :fire: **Some of my Github Stats**
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tafif04&theme=dark&background=000000)](https://git.io/streak-stats)
