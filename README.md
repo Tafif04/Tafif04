@@ -7,10 +7,11 @@
 </p>
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=Tafif04></p>
 
+#About me:
 <p align = "justify"> My name is Ta'fif Lukman Afandi, I am a Fresh Graduate from Statistics, Diponegoro University. I have an internship experience by joining the Magang Merdeka program for approximately 1 year. Currently I learning in programming such MySQL, SQL Server, R, and Python. In addition, I am interested in Data Analyst, Data Scientist, and Business Intelligence Analyst.
 </p>
 
-## :fire: Some of my Github Stats
+# :fire: Some of my Github Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tafif04&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tafif04&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
