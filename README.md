@@ -22,7 +22,7 @@
    - <p align="justify"> Created monthly reports for data validation on each brand. </p>
 
 # <img src="https://cdn-icons-png.flaticon.com/512/201/201614.png" width="30px"> Education:
-#### <img src = "https://1.bp.blogspot.com/-tThKR0i2DdQ/XrO4fFiulNI/AAAAAAAAB_s/4_UY2xeR3SsE9_5MGBdvsQtBJgNxf9e_wCLcBGAsYHQ/s1600/Logo%2BUndip%2BUniversitas%2BDiponegoro.png" width="20px"> [**DIPONEGORO UNIVERSITY**](https://www.undip.ac.id/) | Aug, 2018 - Sep, 2022
+#### <img src = "https://1.bp.blogspot.com/-tThKR0i2DdQ/XrO4fFiulNI/AAAAAAAAB_s/4_UY2xeR3SsE9_5MGBdvsQtBJgNxf9e_wCLcBGAsYHQ/s1600/Logo%2BUndip%2BUniversitas%2BDiponegoro.png" width="20px"> [**DIPONEGORO UNIVERSITY**](https://www.undip.ac.id/) | Bachelor of _Statictics_ | Aug, 2018 - Sep, 2022
    - <p align="justify"> Grade Point Average (GPA): 3.88/4.00 </p>
    - <p align="justify"> Thesis: Implementation of K-Medoids and Weighted-Length Recency Frequency Monetary (W-LRFM) Model for Customer Segmentation with GUI R </p>
    - <p align="justify"> Lecturer Research Assistant </p>
