@@ -8,7 +8,7 @@
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=Tafif04></p>
 
 # About me:
-<p align = "justify"> I am a Fresh Graduate from Statistics, Diponegoro University.  I have an internship experience by joining the Magang Merdeka program for approximately 1 year as a Data Analyst and Data Scientist.  Some of the experiences that have been gained through the Magang Merdeka program include Data Visualization, Data Preparation, Machine Learning, Customer Relationship Management (CRM), and Optical Character Recognition (OCR) System. In addition, the tools that I have understood include Microsoft Office, R, Python, Matlab, MySQL, SQL Server, Tableau, etc. 
+<p align = "justify"> I am a Fresh Graduate from Statistics, Diponegoro University.  I have an internship experience by joining the Magang Merdeka program for approximately 1 year as a Data Analyst and Data Scientist.  Some of the experiences that have been gained through the [Magang Merdeka](https://kampusmerdeka.kemdikbud.go.id/) program include Data Visualization, Data Preparation, Machine Learning, Customer Relationship Management (CRM), and Optical Character Recognition (OCR) System. In addition, the tools that I have understood include Microsoft Office, R, Python, Matlab, MySQL, SQL Server, Tableau, etc. 
 </p>
 
 # :fire: Some of my Github Stats
