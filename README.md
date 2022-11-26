@@ -7,7 +7,7 @@
 </p>
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=Tafif04></p>
 
-#About me:
+# About me:
 <p align = "justify"> My name is Ta'fif Lukman Afandi, I am a Fresh Graduate from Statistics, Diponegoro University. I have an internship experience by joining the Magang Merdeka program for approximately 1 year. Currently I learning in programming such MySQL, SQL Server, R, and Python. In addition, I am interested in Data Analyst, Data Scientist, and Business Intelligence Analyst.
 </p>
 
