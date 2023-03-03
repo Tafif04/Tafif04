@@ -1,4 +1,4 @@
-[![Header](https://media-exp1.licdn.com/dms/image/D5616AQHjeiUMSC8BAQ/profile-displaybackgroundimage-shrink_350_1400/0/1667108026239?e=1674691200&v=beta&t=Vd8DaPXfNo_Wc5YLA1Pzr-t_XKeSVM7_DOtGp986O_c)](https://www.linkedin.com/in/tafiflukman/)
+[![Header](https://www.linkedin.com/in/tafiflukman/overlay/background-image/)](https://www.linkedin.com/in/tafiflukman/)
 
 <p align = "center">
     <a href="mailto:tafif5880@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-c14438?style=flat&logo=Gmail&logoColor=white"/></a>
