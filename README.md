@@ -6,7 +6,8 @@
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=Tafif04></p>
 
 # <img src="https://cdn0.iconfinder.com/data/icons/business-situations-flat-1/64/annual-report-graph-summary-company-1024.png" width="30px"> **About me**:
-<p align = "justify"> I am a Fresh Graduate from Statistics, Diponegoro University.  I have an internship experience by joining the Magang Merdeka program for approximately 1 year as a Data Analyst and Data Scientist.  Some of the experiences that have been gained through the <a href ="https://kampusmerdeka.kemdikbud.go.id/">Magang Merdeka</a> program include Data Visualization, Data Preparation, Machine Learning, Customer Relationship Management (CRM), and Optical Character Recognition (OCR) System. In addition, the tools that I have understood include Microsoft Office, R, Python, Matlab, MySQL, SQL Server, Tableau, etc. 
+<p align = "justify"> 
+A bachelor of Statistics who has statistical analysis skills both quantitative and qualitative, adaptive to the development of information technology, and likes new challenges. A person who has work experience as a Data Analyst and intern in Data Analyst & Data Scientist.  Additionally have experience in Teaching, Research, Data Management, Data Preprocessing, Exploration Data Analysis, Data Visualization, Data Modeling, and Storytelling with Data. A person who has the ability in several programming languages such as R, Matlab, SAS, SQL (MySQL, SQL Server, PostgreSQL, and Big Query), and Python as well as other analysis tools such as Microsoft Excel, <a href = "https://public.tableau.com/app/profile/ta.fif.lukman.afandi">Tableau</a>, and <a href = "https://lookerstudio.google.com/u/0/reporting/587262a8-0652-4ace-99bd-f8ecb3023a97/page/uI0FD">Google Data Studio</a>. 
 </p>
 
 # Experience:
@@ -15,7 +16,6 @@
    - <p align="justify"> Monitoring dashboards and made report on web traffic from Dashboard in Google Data Studio using Google Analytics
    - <p align="justify"> Conduct business and user requirement analysis
    - <p align="justify"> Coordinate with business user and developer team in dashboard development project
-
 #### [**PT BISA ARTIFISIAL INDONESIA**](https://www.linkedin.com/company/bisa-ai/) | Data Scientist, _Internship_ | Feb, 2022 - Jul, 2022
    - <p align="justify"> Coordinated (Project Management) with 3 individuals internal team (OCR team) </p>
    - <p align="justify"> Building API-based OCR System for Identity Cards (KTP), Driver's License Cards (SIM), Debit Cards, and NPWP Cards to assist in inputting data for companies. </p> 
@@ -26,7 +26,7 @@
    - <p align="justify"> Created monthly reports for data validation on each brand. </p>
 
 # <img src="https://cdn-icons-png.flaticon.com/512/201/201614.png" width="30px"> Education:
-#### <img src = "https://1.bp.blogspot.com/-tThKR0i2DdQ/XrO4fFiulNI/AAAAAAAAB_s/4_UY2xeR3SsE9_5MGBdvsQtBJgNxf9e_wCLcBGAsYHQ/s1600/Logo%2BUndip%2BUniversitas%2BDiponegoro.png" width="20px"> [**DIPONEGORO UNIVERSITY**](https://www.undip.ac.id/) | Bachelor of _Statictics_ | Aug, 2018 - Sep, 2022
+#### [**DIPONEGORO UNIVERSITY**](https://www.undip.ac.id/) | Bachelor of _Statictics_ | Aug, 2018 - Sep, 2022
    - <p align="justify"> Grade Point Average (GPA): 3.88/4.00 </p>
    - <p align="justify"> Thesis: Implementation of K-Medoids and Weighted-Length Recency Frequency Monetary (W-LRFM) Model for Customer Segmentation with GUI R </p>
    - <p align="justify"> Lecturer Research Assistant </p>
