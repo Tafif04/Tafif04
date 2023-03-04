@@ -28,7 +28,7 @@ A bachelor of Statistics who has statistical analysis skills both quantitative a
 # <img src="https://cdn-icons-png.flaticon.com/512/201/201614.png" width="30px"> Education:
 #### [**DIPONEGORO UNIVERSITY**](https://www.undip.ac.id/) | Bachelor of _Statictics_ | Aug, 2018 - Sep, 2022
    - <p align="justify"> Grade Point Average (GPA): 3.88/4.00 </p>
-   - <p align="justify"> Thesis: Implementation of K-Medoids and Weighted-Length Recency Frequency Monetary (W-LRFM) Model for Customer Segmentation with GUI R </p>
+   - <p align="justify"> Thesis: <a href = "https://ejournal3.undip.ac.id/index.php/gaussian/article/view/37085/28277">Implementation of K-Medoids and Weighted-Length Recency Frequency Monetary (W-LRFM) Model for Customer Segmentation with GUI R</a> </p>
    - <p align="justify"> Lecturer Research Assistant </p>
    - <p align="justify"> Lecturer Teaching Assistant for 6 courses: Financial Mathematics, Statistics and Matematics I, Statistics and Matematics II, Design Experiment, Insurance, and Techical Simulations </p>
 
