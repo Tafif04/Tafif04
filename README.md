@@ -10,6 +10,12 @@
 </p>
 
 # Experience:
+#### [**PT SANTOSA UTAMA LESTARI**](https://vasham.co.id/) | Data Analyst | Feb 2023 - Now
+   - <p align="justify"> Created dashboards of Sales Perfomance and Production (Trend Perfomance) using Google Data Studio
+   - <p align="justify"> Monitoring dashboards and made report on web traffic from Dashboard in Google Data Studio using Google Analytics
+   - <p align="justify"> Conduct business and user requirement analysis
+   - <p align="justify"> Coordinate with business user and developer team in dashboard development project
+
 #### [**PT BISA ARTIFISIAL INDONESIA**](https://www.linkedin.com/company/bisa-ai/) | Data Scientist, _Internship_ | Feb, 2022 - Jul, 2022
    - <p align="justify"> Coordinated (Project Management) with 3 individuals internal team (OCR team) </p>
    - <p align="justify"> Building API-based OCR System for Identity Cards (KTP), Driver's License Cards (SIM), Debit Cards, and NPWP Cards to assist in inputting data for companies. </p> 
