@@ -7,11 +7,11 @@
 
 # <img src="https://cdn0.iconfinder.com/data/icons/business-situations-flat-1/64/annual-report-graph-summary-company-1024.png" width="30px"> **About me**:
 <p align = "justify"> 
-A bachelor of Statistics who has statistical analysis skills both quantitative and qualitative, adaptive to the development of information technology, and likes new challenges. A person who has work experience as a Data Analyst and intern in Data Analyst & Data Scientist.  Additionally have experience in Teaching, Research, Data Management, Data Preprocessing, Exploration Data Analysis, Data Visualization, Data Modeling, and Storytelling with Data. A person who has the ability in several programming languages such as R, Matlab, SAS, SQL (MySQL, SQL Server, PostgreSQL, and Big Query), and Python as well as other analysis tools such as Microsoft Excel, <a href = "https://public.tableau.com/app/profile/ta.fif.lukman.afandi">Tableau</a>, and <a href = "https://lookerstudio.google.com/u/0/reporting/587262a8-0652-4ace-99bd-f8ecb3023a97/page/uI0FD">Google Data Studio</a>. 
+A bachelor of Statistics who has statistical analysis skills both quantitative and qualitative, adaptive to the development of information technology, and likes new challenges. A person who has work experience as a Data Analyst and intern in Data Analyst & Data Scientist.  Additionally have experience in Teaching, Research, Data Management, Data Preprocessing, Exploration Data Analysis, Data Visualization, Data Modeling, and Storytelling with Data. A person who has the ability in several programming languages such as R, Matlab, SAS, SQL (MySQL, SQL Server, PostgreSQL, and Big Query), and Python as well as other analysis tools such as Microsoft Excel, <a href = "https://public.tableau.com/app/profile/ta.fif.lukman.afandi">Tableau</a>, and Google Data Studio. 
 </p>
 
 # Experience:
-#### [**PT SANTOSA UTAMA LESTARI**](https://vasham.co.id/) | Data Analyst | Feb 2023 - Now
+#### [**PT JAPFA COMFEED INDONESIA**]([https://vasham.co.id/](https://japfacomfeed.co.id/id)) | Data Analyst | Feb 2023 - Now
    - <p align="justify"> Created dashboards of Sales Perfomance and Production (Trend Perfomance) using Google Data Studio
    - <p align="justify"> Monitoring dashboards and made report on web traffic from Dashboard in Google Data Studio using Google Analytics
    - <p align="justify"> Conduct business and user requirement analysis
