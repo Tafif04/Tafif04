@@ -13,7 +13,7 @@ Contact: tafiflukmana@gmail.com
 </p>
 
 # Experience:
-#### [** PT KINO INDONESIA, Tbk**](https://kino.co.id/id/) | Data Analyst | Aug 2024 - Now
+#### [**PT KINO INDONESIA, Tbk**](https://kino.co.id/id/) | Data Analyst | Aug 2024 - Now
 #### [**PT JAPFA COMFEED INDONESIA**](https://japfacomfeed.co.id/id) | Data Analyst | Feb 2023 - Aug 2024
    - <p align="justify"> Created dashboards of Sales Perfomance and Production (Trend Perfomance) using Google Data Studio
    - <p align="justify"> Monitoring dashboards and made report on web traffic from Dashboard in Google Data Studio using Google Analytics
