@@ -1,5 +1,5 @@
 <p align = "center">
-    <a href="mailto:tafif5880@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-c14438?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="mailto:tafiflukmana@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-c14438?style=flat&logo=Gmail&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/tafiflukman/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white"/></a>
     <a href="https://public.tableau.com/app/profile/ta.fif.lukman.afandi" target="blank"><img src="https://img.shields.io/badge/Tableau_Public-ffffff?style=flat&logo=Tableau"/></a>
 </p>
@@ -7,13 +7,14 @@
 
 # <img src="https://cdn0.iconfinder.com/data/icons/business-situations-flat-1/64/annual-report-graph-summary-company-1024.png" width="30px"> **About me**:
 <p align = "justify"> 
-I'm a Bachelor of Statistics from Diponegoro University. Work as a Data Analyst with experience in interpreting and analyzing data to find out data patterns or trends in providing appropriate solutions and can be implemented in business processes. Skilled in Data Visualization (Microsoft Excel, Google Data Studio, <a href = "https://public.tableau.com/app/profile/ta.fif.lukman.afandi">Tableau</a>, or Power BI), Machine Learning (R or Python Programming Language). Able to operate SQL (MySQL, PostgreSQL, Big Query, and SQL Server). Adaptive, Discipline, and Fast Learning are my strongs.
+I'm a Bachelor of Statistics from Diponegoro University. Work as a Data Analyst with experience in interpreting and analyzing data to find out data patterns or trends in providing appropriate solutions and can be implemented in business processes. Skilled in Data Visualization (Microsoft Excel, Google Data Studio, <a href = "https://public.tableau.com/app/profile/ta.fif.lukman.afandi">Tableau</a>, Power BI, or Qlik Sense), Machine Learning (R or Python Programming Language). Able to operate SQL (MySQL, PostgreSQL, Big Query, and SQL Server). Adaptive, Discipline, and Fast Learning are my strongs.
     
 Contact: tafiflukmana@gmail.com
 </p>
 
 # Experience:
-#### [**PT JAPFA COMFEED INDONESIA**](https://japfacomfeed.co.id/id) | Data Analyst | Feb 2023 - Now
+#### [** PT KINO INDONESIA, Tbk**](https://kino.co.id/id/) | Data Analyst | Aug 2024 - Now
+#### [**PT JAPFA COMFEED INDONESIA**](https://japfacomfeed.co.id/id) | Data Analyst | Feb 2023 - Aug 2024
    - <p align="justify"> Created dashboards of Sales Perfomance and Production (Trend Perfomance) using Google Data Studio
    - <p align="justify"> Monitoring dashboards and made report on web traffic from Dashboard in Google Data Studio using Google Analytics
    - <p align="justify"> Conduct business and user requirement analysis
